@@ -1,4 +1,4 @@
-# WP Interactive Map
+# PT Interactive Map
 
 ## Description
 
