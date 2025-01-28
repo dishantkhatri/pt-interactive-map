@@ -144,6 +144,5 @@ function pt_leaflet_map_shortcode( $atts ) {
     // HTML for the map container
     $map_html = '<div class="map-container" style="height:450px; width: 600px;"><div id="leaflet-map" style="height:450px;"></div></div>';
 
-    // Combine HTML and JavaScript
     return $map_html;
 }
